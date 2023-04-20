@@ -21,17 +21,8 @@ Number of Instances: 7588
 Number of Attributes: 27
 
 ## Final Result Table
-Sample	Best Accuracy	Best Kernel	Best Nu	Best Epsilon
-1	0.94	Linear	5.92	7.25
-2	0.86	Linear	0.10	8.04
-3	0.94	Poly	3.28	7.72
-4	0.71	Poly	1.33	1.95
-5	0.74	Linear	3.98	3.50
-6	0.77	Linear	5.75	5.54
-7	0.77	Poly	7.22	6.70
-8	0.77	Poly	7.71	6.16
-9	0.74	Poly	6.85	2.69
-10	0.61	Poly	3.40	9.43
+<img width="534" alt="Screenshot 2023-04-20 at 6 24 03 AM" src="https://user-images.githubusercontent.com/79714473/233229996-06c2412d-846e-4926-8def-d0a1adbd1fc3.png">
+
 
 ## Convergence Graph
 ![image](https://user-images.githubusercontent.com/79714473/233229610-83e947de-0bf2-4410-ba82-26f4497f69af.png)
